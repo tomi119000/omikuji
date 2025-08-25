@@ -1,0 +1,15 @@
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\bin\Debug\net8.0\omikuji.exe
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\bin\Debug\net8.0\omikuji.deps.json
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\bin\Debug\net8.0\omikuji.runtimeconfig.json
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\bin\Debug\net8.0\omikuji.dll
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\bin\Debug\net8.0\omikuji.pdb
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\omikuji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\omikuji.AssemblyInfoInputs.cache
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\omikuji.AssemblyInfo.cs
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\omikuji.csproj.CoreCompileInputs.cache
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\omikuji.sourcelink.json
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\omikuji.dll
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\refint\omikuji.dll
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\omikuji.pdb
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\omikuji.genruntimeconfig.cache
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\omikuji\omikuji\obj\Debug\net8.0\ref\omikuji.dll
